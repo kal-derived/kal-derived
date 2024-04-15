@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya, I'm new here 👋
 
 <!--
 **kal-derived/kal-derived** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
